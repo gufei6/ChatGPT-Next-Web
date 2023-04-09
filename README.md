@@ -3,10 +3,7 @@
 
 <h1 align="center">ChatGPT Next Web</h1>
 
-One-Click to deploy well-designed ChatGPT web UI on Vercel
 
-[演示 Demo](https://chat-gpt-next-web.vercel.app/) / [反馈 Issues](https://github.com/Yidadaa/ChatGPT-Next-Web/issues) / [Join Discord](https://discord.gg/zrhvHCr79N) / [QQ 群](https://user-images.githubusercontent.com/16968934/228190818-7d
-## Features
 
 - **Deploy for free with one-click** on Vercel in under 1 minute
 - Responsive design, dark mode and PWA
