@@ -3,9 +3,7 @@
 
 <h1 align="center">ChatGPT Next Web</h1>
 
-One-Click to deploy well-designed ChatGPT web UI on Vercel.
-
-一键免费部署你的私人 ChatGPT 网页应用。
+One-Click to deploy well-designed ChatGPT web UI on Vercel
 
 [演示 Demo](https://chat-gpt-next-web.vercel.app/) / [反馈 Issues](https://github.com/Yidadaa/ChatGPT-Next-Web/issues) / [Join Discord](https://discord.gg/zrhvHCr79N) / [QQ 群](https://user-images.githubusercontent.com/16968934/228190818-7dd00845-e9b9-4363-97e5-44c507ac76da.jpeg) / [打赏开发者](https://user-images.githubusercontent.com/16968934/227772541-5bcd52d8-61b7-488c-a203-0330d8006e2b.jpg) / [Buy Me a Coffee](https://www.buymeacoffee.com/yidadaa)
 
@@ -42,9 +40,7 @@ One-Click to deploy well-designed ChatGPT web UI on Vercel.
 
 ## 主要功能
 
-- 在 1 分钟内使用 Vercel **免费一键部署**
-- 精心设计的 UI，响应式设计，支持深色模式，支持 PWA
-- 极快的首屏加载速度（~100kb）
+
 - 海量的内置 prompt 列表，来自[中文](https://github.com/PlexPt/awesome-chatgpt-prompts-zh)和[英文](https://github.com/f/awesome-chatgpt-prompts)
 - 自动压缩上下文聊天记录，在节省 Token 的同时支持超长对话
 - 一键导出聊天记录，完整的 Markdown 支持
